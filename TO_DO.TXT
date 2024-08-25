@@ -1,0 +1,100 @@
+- create planning complishing ! done
+- Navigation done
+- edit
+    -drivers add done
+    -drivers switch done
+    -drivers hold done
+    -drivers delete done
+
+
+    -equiment add done
+    -equiment switch done
+    -equiment hold done
+    -equiment delete done
+
+- count wh done
+    -add 1 done
+    -mince 1 done
+- print pdf 2 done
+- print excel 2 done
+- filter  3
+- box driver setting  4 done
+- box equipment setting  3 done
+- box left setting  2 done
+-
+
+
+
+
+STS--------
+- setPlanning generation - done
+- add working hours interface done
+
+
+APP__ISSUES__TO_FIX :
+
+- WORKING HOURS SET - 7 - done
+- STS 13 : 7 FULL CRANES - 5 done
+- RTG NOT RELOAD MISSING OUT - 7 done
+- OUT IN SWITCH EQP - 4 done
+- reload choice show in mini edits - 3 done
+- EQP PLANNIG CALENDAR - 6 done
+- DOWLOAD HEADERS - 3 done
+- pdf portrait paysage & FINALIZING IT - 8 done
+
+
+
+
+- roules def - 6
+- undo redo disable - 7
+- NUMBERS CHF IN THE HEADERS - 4
+- loging design -  ???
+- APP LAYOUT TOP BAR AND SIDEBAR - 8
+- user and eqp checking - ?
+- routate the evening icon - 3
+- loading in qst ? - ?
+
+
+
+
+
+
+
+
+
+- STS ALGO ADD LAYER
+
+
+
+
+AM--------
+- setPlanning generation
+- add Assistant,Dechman,Checker hours interface
+
+RS--------
+- setPlanning generation
+
+
+-
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  
